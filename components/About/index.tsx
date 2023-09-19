@@ -64,17 +64,18 @@ const About = () => {
                 <span className="bg-meta text-white text-metatitle inline-flex rounded-full py-1 px-4.5 mr-4 mb-4 uppercase ">
                   New
                 </span>{" "}
-                SaaS Boilerplate for Next.js
+                FULL ENGINEERING SOLUTION
               </h4>
               <h2 className="relative font-bold text-black dark:text-white text-3xl xl:text-hero mb-6">
-                A Complete Solution for
+                A Complete Solution for your{" "}
                 <span className="inline-block relative before:absolute before:bottom-2.5 before:left-0 before:w-full before:h-3 before:bg-titlebg dark:before:bg-titlebgdark before:-z-1">
-                  SaaS Startup
+                  Engineering Task
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+                From concept to completion, we're your one-stop solution,
+                ensuring every engineering task is executed with unmatched
+                precision and excellence.
               </p>
 
               <div className="mt-7.5 flex items-center gap-5">
@@ -85,9 +86,12 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h5 className="text-black dark:text-white text-metatitle2 mb-0.5">
-                    React 18, Next.js 13 and TypeScript
+                    Design & Prototyping
                   </h5>
-                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                  <p>
+                    From initial idea sketches to tangible prototypes, we refine
+                    and test your concept with expert precision.
+                  </p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -98,9 +102,12 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h5 className="text-black dark:text-white text-metatitle2 mb-0.5">
-                    Fully Customizable
+                    Precision Manufacturing
                   </h5>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+                  <p>
+                    Leveraging state-of-the-art tools and processes, we
+                    transition from prototype to a high-quality product.
+                  </p>
                 </div>
               </div>
             </motion.div>
@@ -132,17 +139,17 @@ const About = () => {
               className="animate_left md:w-1/2"
             >
               <h4 className="text-black dark:text-white font-medium uppercase">
-                Launch Your SaaS Fast
+                Launch Your Project Fast
               </h4>
               <h2 className="relative font-bold text-black dark:text-white text-3xl xl:text-hero mb-6">
-                Packed with All Essential
+                Turn Your Concepts into Mechanical
                 <span className="inline-block relative before:absolute before:bottom-2.5 before:left-0 before:w-full before:h-3 before:bg-titlebg2 dark:before:bg-titlebgdark before:-z-1 ml-2.5">
-                  Integrations
+                  Masterpieces
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+                Develop mechanical designs and implement them rapidly. With our
+                expertise, your project takes off seamlessly and efficiently.
               </p>
               <div>
                 <a

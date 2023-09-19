@@ -50,10 +50,6 @@ const Hero = () => {
                     </button>
                   </div>
                 </form>
-
-                {/* <p className="text-black dark:text-white mt-5">
-                  Try for free no credit card required.
-                </p> */}
               </div>
             </div>
 
@@ -82,16 +78,18 @@ const Hero = () => {
                 />
                 <div className=" relative aspect-[700/444] w-full">
                   <Image
-                    className="dark:hidden shadow-solid-l"
+                    // className="dark:hidden shadow-solid-l"
+                    className="dark:hidden"
                     // src="/images/hero/hero-light.svg"
-                    src="/images/hero/xhero-light.jpg"
+                    src="/images/hero/zbg-light.png"
                     alt="Hero"
                     fill
                   />
                   <Image
-                    className="hidden dark:block shadow-solid-l"
+                    // className="hidden dark:block shadow-solid-l"
+                    className="hidden dark:block"
                     // src="/images/hero/hero-dark.svg"
-                    src="/images/hero/xhero-dark.jpg"
+                    src="/images/hero/zbg-dark.png"
                     alt="Hero"
                     fill
                   />

@@ -14,8 +14,8 @@ import Blog from "@/components/Blog";
 import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
-  title: "Zepheon",
-  description: "Meld innovation with precision ",
+  title: "Zepheon - Home",
+  description: "Meld innovation with precision!",
   // other metadata
 };
 
